@@ -46,6 +46,7 @@ body {
   background-image: url(./images/bg-pattern-quotation.svg);
   background-position: right top;
   background-repeat: no-repeat;
+  background-origin: content-box;
   background-color: hsl(263, 55%, 52%);
 }
 .grid-2 {
